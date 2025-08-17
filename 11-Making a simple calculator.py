@@ -7,5 +7,7 @@ sub=num1-num2
 mul=num1*num2
 div=num1/num2
 mod=num1%num2
+#logic for output
 print(f"the addition:{add}\nthe subtraction:{sub}\nthe multiplication:{mul}\nthe division:{div}\nthe modulus:{mod}")
+
 
