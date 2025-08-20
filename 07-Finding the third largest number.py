@@ -1,4 +1,4 @@
-
+#logic for finding third largest
 def third_larg_num(num1,num2,num3,num4):
     
     
@@ -86,3 +86,4 @@ def third_larg_num(num1,num2,num3,num4):
 
 
 print(third_larg_num(33,220,62,30))
+
