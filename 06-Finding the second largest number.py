@@ -26,6 +26,7 @@ def find_sec_larg(num1,num2,num3):
             thrd_largest=num2  
     return sec_largest      
                  
-
+#logic for output
 print(find_sec_larg(5,3,0))
+
 
