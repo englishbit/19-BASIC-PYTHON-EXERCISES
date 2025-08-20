@@ -1,3 +1,4 @@
+#logic for finding the second largest
 def find_sec_larg(num1,num2,num3):
     if num1>=num2 and num1>=num3:
         
@@ -27,3 +28,4 @@ def find_sec_larg(num1,num2,num3):
                  
 
 print(find_sec_larg(5,3,0))
+
