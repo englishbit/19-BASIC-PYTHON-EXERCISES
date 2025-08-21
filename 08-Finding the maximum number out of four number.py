@@ -9,11 +9,12 @@ def max_of_three(num1,num2,num3,num4):
         return num3
     else:
         return num4
-
+#logic for output
 print(max_of_three(2,10,5,7))    
     
     
         
         
         
+
 
