@@ -1,3 +1,4 @@
+#logic for finding maximum
 def max_of_three(num1,num2,num3,num4):
     
     if num1>num2 and num1>num3 and num1>num4:
@@ -15,3 +16,4 @@ print(max_of_three(2,10,5,7))
         
         
         
+
