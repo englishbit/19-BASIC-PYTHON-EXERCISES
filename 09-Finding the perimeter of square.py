@@ -4,6 +4,3 @@ one_side=input('enter one side ')
 prmtr=float(one_side)*4
 #logic for output
 print(prmtr)
-
-
-
